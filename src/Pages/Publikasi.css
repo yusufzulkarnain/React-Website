@@ -1,0 +1,60 @@
+.image-container {
+}
+.date-publish {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1rem !important;
+  line-height: 150%;
+  /* identical to box height, or 32px */
+
+  text-align: justify;
+  /* text-transform: capitalize; */
+  color: #0f75bc;
+}
+.list-publish {
+  background: #ffffff;
+  /* Shadow 3 */
+  box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.05);
+  margin-bottom: 24px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+
+.title-pubslih {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.2rem !important;
+  line-height: 150%;
+  /* or 32px */
+
+  text-align: justify;
+
+  color: #000000;
+}
+
+.download {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  align-items: center;
+}
+.img-download {
+  width: 22px;
+  height: 22px;
+  margin-left: 12px;
+}
+
+.text-download {
+  font-family: "Roboto";
+  font-style: italic;
+  font-weight: 600 !important;
+  font-size: 1rem !important;
+  line-height: 21px;
+  /* identical to box height */
+  /* margin-right: 12px !important; */
+  color: #0f75bc;
+}

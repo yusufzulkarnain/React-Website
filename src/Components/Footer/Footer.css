@@ -1,0 +1,43 @@
+.container-footer {
+  /* height: 478px; */
+  background-color: #232b5c;
+  /* margin-top: 100px; */
+  padding-bottom: 32px;
+}
+.img-index-logo {
+  margin-top: 71px;
+}
+
+.col-index-logo {
+  display: flex;
+  justify-content: center;
+}
+.col-index-logo1 {
+  display: flex;
+  justify-content: center;
+}
+
+.kppod-logo {
+  object-fit: contain;
+  width: 100%;
+}
+
+.terra-logo {
+  width: 111px;
+  height: 78px;
+}
+.kinara-logo {
+  width: 128px;
+  height: 108px;
+}
+
+.text-footer {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  /* identical to box height */
+
+  color: #ffffff;
+}

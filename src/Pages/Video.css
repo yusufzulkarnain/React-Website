@@ -1,0 +1,68 @@
+/* .player-wrapper {
+  position: relative;
+  padding-top: 56.25%; 
+}
+
+.react-player {
+  position: absolute;
+  top: 0;
+  left: 0;
+} */
+
+.heading-title {
+  margin-top: 36px !important;
+  margin-bottom: 14px;
+}
+
+.title-video-container {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.5rem;
+  line-height: 28px;
+
+  color: #000000;
+}
+
+.hover-video:hover {
+  transform: scale(1.1);
+  transition-duration: 0.5ms;
+}
+
+.date-text {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+}
+
+.sub-video-text {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.2rem !important;
+  line-height: 150%;
+  /* or 32px */
+
+  /* text-align: justify; */
+  /* text-transform: capitalize; */
+
+  color: #000000;
+}
+
+.text-video-grid {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 1rem !important;
+  /* line-height: 150%; */
+  /* or 27px */
+
+  text-align: left;
+
+  color: #000000;
+  margin-top: 8px !important;
+}

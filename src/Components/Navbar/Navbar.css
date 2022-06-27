@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css?family=Nunito+Sans:400,400i,700,800,800i,900i&display=swap");
+
+.logo-header {
+  width: 177px;
+  height: 68px;
+}
+
+.side-menu {
+  margin-right: 20px;
+}
+
+.search-icon {
+  width: 26px;
+  height: 26px;
+}

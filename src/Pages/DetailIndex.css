@@ -1,0 +1,61 @@
+.container-index {
+  background: rgb(213, 231, 241);
+  background: linear-gradient(
+    80deg,
+    rgba(214, 230, 241, 1) 0%,
+    rgba(240, 246, 234, 1) 50%,
+    rgba(240, 246, 234, 1) 100%
+  );
+  padding-top: 20px;
+  padding-bottom: 15px;
+}
+
+.image-contain {
+  width: 80%;
+  margin: auto;
+  /* align-self: center; */
+  display: flex;
+}
+.table-conten-index {
+  background-color: white;
+  padding: 10px;
+}
+.title-index {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 2.655rem;
+  line-height: 56px;
+  text-align: center;
+
+  color: #292d32;
+  margin: 10px;
+}
+
+.sub-title {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 0.9rem;
+  line-height: 21px;
+  text-align: center;
+
+  color: #292d32;
+  margin: 20px;
+}
+
+.heading-table {
+  background-color: #0f75bc;
+  color: #ffff;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.2rem;
+  line-height: 24px;
+}
+
+.icon-tab {
+  width: 24px;
+  height: 24px;
+  margin-right: 4px;
+}

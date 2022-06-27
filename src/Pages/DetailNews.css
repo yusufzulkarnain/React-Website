@@ -1,0 +1,23 @@
+.container-detail {
+  /* background: linear-gradient(to right top, #d5e7f1, #f0f6ea 80%); */
+  background: rgb(213, 231, 241);
+  background: linear-gradient(
+    80deg,
+    rgba(214, 230, 241, 1) 0%,
+    rgba(240, 246, 234, 1) 50%,
+    rgba(240, 246, 234, 1) 100%
+  );
+}
+.centerd-img {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 26px;
+}
+
+.img-banner {
+  width: 100%;
+}
+.body-news {
+  margin-bottom: 180px;
+}
